@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css,html}\"",
+    "react": "^19.1.1",
+    "switch": "^0.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
